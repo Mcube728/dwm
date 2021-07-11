@@ -8,9 +8,9 @@ Requirements
 In order to build dwm you need the Xlib header files.
 
 You also need the terminus font pack as that is the 
-font that my build of dwm uses, and the font awesome pack there are 
-icons in the tags.(if you happen to be on Arch Linux, you can 
-install these by running: 
+font that my build of dwm uses, and the font awesome pack as 
+there are icons in the tags.(if you happen to be on Arch Linux, 
+you can install these by running: 
 
     sudo pacman -S terminus-font ttf-font-awesome font-awesome
 
