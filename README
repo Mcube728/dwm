@@ -6,9 +6,11 @@ dwm is an extremely fast, small, and dynamic window manager for X.
 Requirements
 ------------
 In order to build dwm you need the Xlib header files.
+
 You also need the font aweome pack as there are icons in the tags.(if 
-you happen to be on Arch Linux, you can install these by running 
-sudo pacman -S ttf-font-awesome font-awesome in the terminal)
+you happen to be on Arch Linux, you can install these by running: 
+sudo pacman -S ttf-font-awesome font-awesome 
+in the terminal)
 
 Installation
 ------------
